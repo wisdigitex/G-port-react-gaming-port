@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "my-port-react",
+    "my portfolio": "my-port-react",
+    "my-game-portfolio": "my-portfolio-3e693"
+  },
+  "targets": {},
+  "etags": {}
+}
