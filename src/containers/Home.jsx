@@ -18,7 +18,7 @@ const Home = () => {
           <h2 className="text-3xl lg:text-4xl text-texlight">
             Hello, It's me
             <span className="block tracking-wider text-4xl lg:text-6xl mt-4 text-white ">
-              Volcano
+              Wisdom
             </span>
           </h2>
 
@@ -50,7 +50,7 @@ const Home = () => {
 
           {/* hire me */}
           <a
-            href="https://discordapp.com/users/1007855573213126756"
+            href="https://discordapp.com/users/895306147303674007"
             className="mt-12 border border-[rgba(255,255,255,0.3)] rounded-xl px-8 py-3  active:scale-95 group hover:border-primary"
             style={{ boxShadow: "inset 0 0 10px rgba(255,255,255,0.3)" }}
           >

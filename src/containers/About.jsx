@@ -41,7 +41,7 @@ const About = () => {
         </div>
         <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
           <p className="text-texlight text-base tracking-wider text-justify">
-          Hi, I'm Volcano, a dedicated game developer with over 5 years of experience.
+          Hi, I'm Wisdom, a dedicated game developer with over 5 years of experience.
           My journey spans from conceptualizing intricate game mechanics to bringing immersive 
           experiences to life, with a particular passion for Roblox games.
           </p>

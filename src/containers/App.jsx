@@ -58,10 +58,10 @@ const App = () => {
           </p>
           <div className="w-full flex flex-col items-center justify-center gap-3">
             <p className="text-texlight text-center">
-            Volcanoexpert070@gmail.com
+            sulaimonganiyu315@gmail.com
             </p>
-            <p className="text-texlight text-center">Volcano</p>
-            <a href="https://discordapp.com/users/1007855573213126756">
+            <p className="text-texlight text-center">About Game</p>
+            <a href="https://discordapp.com/users/895306147303674007">
               <p className="text-primary text-center">Let"s Chat</p>
             </a>
           </div>
